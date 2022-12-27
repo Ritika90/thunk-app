@@ -5,7 +5,7 @@ import SinglePost from "components/SinglePost";
 
 import { store } from "providers/store";
 
-import "./App.css";
+import "./App.scss";
 
 function App() {
   return (
